@@ -1,0 +1,10 @@
+C:\Users\Haye\source\repos\obs\bin\Debug\obs.exe.config
+C:\Users\Haye\source\repos\obs\bin\Debug\obs.exe
+C:\Users\Haye\source\repos\obs\bin\Debug\obs.pdb
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.csproj.AssemblyReference.cache
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.Form1.resources
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.Properties.Resources.resources
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.csproj.GenerateResource.cache
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.csproj.CoreCompileInputs.cache
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.exe
+C:\Users\Haye\source\repos\obs\obj\Debug\obs.pdb
